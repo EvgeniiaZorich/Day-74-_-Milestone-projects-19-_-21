@@ -15,6 +15,7 @@
 		32B0C8ED29BFA11400AC9AFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32B0C8EB29BFA11400AC9AFA /* LaunchScreen.storyboard */; };
 		32B0C8F529BFA44C00AC9AFA /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B0C8F429BFA44C00AC9AFA /* DetailViewController.swift */; };
 		32B0C8F729BFA46000AC9AFA /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B0C8F629BFA46000AC9AFA /* Note.swift */; };
+		32B0C8F929BFD17700AC9AFA /* Saved.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B0C8F829BFD17700AC9AFA /* Saved.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		32B0C8EE29BFA11400AC9AFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		32B0C8F429BFA44C00AC9AFA /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		32B0C8F629BFA46000AC9AFA /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		32B0C8F829BFD17700AC9AFA /* Saved.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Saved.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				32B0C8E429BFA11300AC9AFA /* ViewController.swift */,
 				32B0C8F429BFA44C00AC9AFA /* DetailViewController.swift */,
 				32B0C8F629BFA46000AC9AFA /* Note.swift */,
+				32B0C8F829BFD17700AC9AFA /* Saved.swift */,
 				32B0C8E629BFA11300AC9AFA /* Main.storyboard */,
 				32B0C8E929BFA11400AC9AFA /* Assets.xcassets */,
 				32B0C8EB29BFA11400AC9AFA /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 				32B0C8F729BFA46000AC9AFA /* Note.swift in Sources */,
 				32B0C8E529BFA11300AC9AFA /* ViewController.swift in Sources */,
 				32B0C8E129BFA11300AC9AFA /* AppDelegate.swift in Sources */,
+				32B0C8F929BFD17700AC9AFA /* Saved.swift in Sources */,
 				32B0C8E329BFA11300AC9AFA /* SceneDelegate.swift in Sources */,
 				32B0C8F529BFA44C00AC9AFA /* DetailViewController.swift in Sources */,
 			);
